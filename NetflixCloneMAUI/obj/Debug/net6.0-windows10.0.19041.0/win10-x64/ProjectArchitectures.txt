@@ -1,0 +1,1 @@
+C:\Users\opilane\source\repos\NetflixCloneMAUI\NetflixCloneMAUI\NetflixCloneMAUI.csproj;x64
