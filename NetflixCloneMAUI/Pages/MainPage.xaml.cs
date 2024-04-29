@@ -1,29 +1,29 @@
-﻿namespace NetflixCloneMAUI.Pages;
+﻿using NetflixCloneMAUI.ViewModels;
+
+namespace NetflixCloneMAUI.Pages;
 
 public partial class MainPage : ContentPage
 {
-	int count = 0;
-
-	public MainPage(TmdbService tmdbService)
-	{
-		InitializeComponent();
-	}
+    private readonly HomeViewModel _homeViewModel;
+    public MainPage(HomeViewModel homeViewModel)
+    {
+        InitializeComponent();
+        _homeViewModel = homeViewModel;
+        BindingContext = _homeViewModel;
+    }
 
     protected async override void OnAppearing()
     {
         base.OnAppearing();
         await _homeViewModel.InitializeAsync();
     }
-    private void OnCounterClicked(object sender, EventArgs e)
-	{
-		count++;
 
-		if (count == 1)
-			CounterBtn.Text = $"Clicked {count} time";
-		else
-			CounterBtn.Text = $"Clicked {count} times";
+    private void MovieRow_MediaSelected(object sender, Controls.MediaSelectEventArgs e)
+    {
+        _homeViewModel.SelectMediaCommand.Execute(e.Media);
+    }
 
-		SemanticScreenReader.Announce(CounterBtn.Text);
-	}
-}
-
+    private void MovieInfoBox_Closed(object sender, EventArgs e)
+    {
+        _homeViewModel.SelectMediaCommand.Execute(null);
+    }

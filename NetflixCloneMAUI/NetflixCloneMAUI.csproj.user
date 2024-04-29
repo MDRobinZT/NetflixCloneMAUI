@@ -2,7 +2,18 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
-    <ActiveDebugFramework>net6.0-windows10.0.19041.0</ActiveDebugFramework>
+    <ActiveDebugFramework>net6.0-android</ActiveDebugFramework>
     <ActiveDebugProfile>Windows Machine</ActiveDebugProfile>
   </PropertyGroup>
+  <ItemGroup>
+    <None Update="Controls\MovieInfoBox.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Controls\MovieRow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Pages\CategoriesPage.xaml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
 </Project>

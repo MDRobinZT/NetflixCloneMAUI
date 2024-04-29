@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NetflixCloneMAUI.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Json;
@@ -7,24 +8,64 @@ using System.Threading.Tasks;
 
 namespace NetflixCloneMAUI.Services
 {
-    public class TmdbService
+    public partial class TmdbService
     {
         private const string ApiKey = "bac1bbe553d0c37e37b45071f195773e";
         public const string TmdbHttpClientName = "TmdbClient";
 
         private readonly IHttpClientFactory _httpClientFactory;
 
-        public TmdbService(IHttpClientFactory httpClientFactory) 
-        { 
+        public TmdbService(IHttpClientFactory httpClientFactory)
+        {
             _httpClientFactory = httpClientFactory;
         }
 
         private HttpClient HttpClient => _httpClientFactory.CreateClient(TmdbHttpClientName);
-        public async Task<IEnumerable<Genre>> GetTrendingAsync()
+
+        public async Task<IEnumerable<Genre>> GetGenresAsync()
         {
-            var trendingMoviesCollection = await HttpClient.GetFromJsonAsync<Movie>($"{TmdbUrls.Trending}&api_key={ApiKey}");
+            var genresWrapper = await HttpClient.GetFromJsonAsync<GenreWrapper>($"{TmdbUrls.MovieGenres}&api_key={ApiKey}");
             return genresWrapper.Genres;
+        }   
+
+        public async Task<IEnumerable<Media>> GetTrendingAsync() =>
+            await GetMediasAsync(TmdbUrls.Trending);
+
+        public async Task<IEnumerable<Media>> GetTopRatedAsync() =>
+            await GetMediasAsync(TmdbUrls.TopRated);
+        public async Task<IEnumerable<Media>> GetNetflixOriginalAsync() =>
+            await GetMediasAsync(TmdbUrls.NetflixOriginals);
+        public async Task<IEnumerable<Media>> GetActionAsync() =>
+            await GetMediasAsync(TmdbUrls.Action);
+
+        public async Task<IEnumerable<Video>?> GetTrailersAsync(int id, string type = "movie")
+        {
+            var videosWrapper = await HttpClient.GetFromJsonAsync<VideosWrapper>(
+                $"{TmdbUrls.GetTrailers(id, type)}&api_key={ApiKey}");
+
+            if(videosWrapper?.results?.Length > 0)
+            {
+                var trailerTeasers = videosWrapper.results.Where(VideosWrapper.FilterTrailerTeasers);
+                return trailerTeasers;
+            }
+            return null;
         }
+
+        public async Task<MovieDetail> GetMediaDetailsAsync(int id, string type = "movie") =>
+            await HttpClient.GetFromJsonAsync<MovieDetail>(
+                $"{TmdbUrls.GetMovieDetails(id, type)}&api_key={ApiKey}");
+
+        public async Task<IEnumerable<Media>> GetSimilarAsync(int id, string type = "movie") =>
+            await GetMediasAsync(
+                $"{TmdbUrls.GetSimilar(id, type)}&api_key={ApiKey}");
+
+        private async Task<IEnumerable<Media>> GetMediasAsync(string url)
+        {
+            var trendingMoviesCollection = await HttpClient.GetFromJsonAsync<Movie>($"{url}&api_key={ApiKey}");
+            return trendingMoviesCollection.results
+                    .Select(r => r.ToMediaObject());
+        }
+    }
 
 
     }
@@ -68,6 +109,18 @@ namespace NetflixCloneMAUI.Services
         public string ThumbnailSmall => $"https://image.tmdb.org/t/p/w220_and_h330_face/{ThumbnailPath}";
         public string ThumbnailUrl => $"https://image.tmdb.org/t/p/original/{ThumbnailPath}";
         public string DisplayTitle => title ?? name ?? original_title ?? original_name;
+        public Media ToMediaObject() =>
+            new()
+            {
+                Id = id,
+                DisplayTitle = DisplayTitle,
+                MediaType = media_type,
+                Overview = overview,
+                ReleaseDate = release_date,
+                Thumbnail = Thumbnail,
+                ThumbnailSmall = ThumbnailSmall,
+                ThumbnailUrl = ThumbnailUrl
+            };
     }
 
 
