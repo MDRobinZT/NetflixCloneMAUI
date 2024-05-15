@@ -26,7 +26,7 @@ namespace NetflixCloneMAUI.Services
         {
             var genresWrapper = await HttpClient.GetFromJsonAsync<GenreWrapper>($"{TmdbUrls.MovieGenres}&api_key={ApiKey}");
             return genresWrapper.Genres;
-        }   
+        }
 
         public async Task<IEnumerable<Media>> GetTrendingAsync() =>
             await GetMediasAsync(TmdbUrls.Trending);
@@ -43,7 +43,7 @@ namespace NetflixCloneMAUI.Services
             var videosWrapper = await HttpClient.GetFromJsonAsync<VideosWrapper>(
                 $"{TmdbUrls.GetTrailers(id, type)}&api_key={ApiKey}");
 
-            if(videosWrapper?.results?.Length > 0)
+            if (videosWrapper?.results?.Length > 0)
             {
                 var trailerTeasers = videosWrapper.results.Where(VideosWrapper.FilterTrailerTeasers);
                 return trailerTeasers;
@@ -65,9 +65,6 @@ namespace NetflixCloneMAUI.Services
             return trendingMoviesCollection.results
                     .Select(r => r.ToMediaObject());
         }
-    }
-
-
     }
     public static class TmdbUrls
     {
@@ -103,12 +100,13 @@ namespace NetflixCloneMAUI.Services
         public string title { get; set; }
         public string name { get; set; }
         public bool video { get; set; }
-        public string media_type { get; set; } 
+        public string media_type { get; set; } // "movie" or "tv"
         public string ThumbnailPath => poster_path ?? backdrop_path;
         public string Thumbnail => $"https://image.tmdb.org/t/p/w600_and_h900_bestv2/{ThumbnailPath}";
         public string ThumbnailSmall => $"https://image.tmdb.org/t/p/w220_and_h330_face/{ThumbnailPath}";
         public string ThumbnailUrl => $"https://image.tmdb.org/t/p/original/{ThumbnailPath}";
         public string DisplayTitle => title ?? name ?? original_title ?? original_name;
+
         public Media ToMediaObject() =>
             new()
             {
@@ -202,4 +200,3 @@ namespace NetflixCloneMAUI.Services
     }
     public record struct Genre(int Id, string Name);
 }
-

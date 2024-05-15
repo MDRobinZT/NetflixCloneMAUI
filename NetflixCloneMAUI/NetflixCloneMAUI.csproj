@@ -49,8 +49,35 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiImage Remove="Resources\Images\brand_netflix.svg" />
+	  <MauiImage Remove="Resources\Images\close.svg" />
+	  <MauiImage Remove="Resources\Images\download.svg" />
+	  <MauiImage Remove="Resources\Images\explore.svg" />
+	  <MauiImage Remove="Resources\Images\game.svg" />
+	  <MauiImage Remove="Resources\Images\home.svg" />
+	  <MauiImage Remove="Resources\Images\hometab.svg" />
+	  <MauiImage Remove="Resources\Images\info_circle.svg" />
+	  <MauiImage Remove="Resources\Images\library.svg" />
+	  <MauiImage Remove="Resources\Images\like.svg" />
+	  <MauiImage Remove="Resources\Images\movie.svg" />
+	  <MauiImage Remove="Resources\Images\notification_bell.svg" />
+	  <MauiImage Remove="Resources\Images\ntflx_logo.png" />
+	  <MauiImage Remove="Resources\Images\play.svg" />
+	  <MauiImage Remove="Resources\Images\plus.svg" />
+	  <MauiImage Remove="Resources\Images\rate.svg" />
+	  <MauiImage Remove="Resources\Images\search.svg" />
+	  <MauiImage Remove="Resources\Images\share.svg" />
+	  <MauiImage Remove="Resources\Images\user.svg" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <None Remove="Resources\Fonts\Poppins-Regular.ttf" />
 	  <None Remove="Resources\Fonts\Poppins-SemiBold.ttf" />
+	  <None Remove="Resources\Images\ntflx_logo.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="Resources\Images\ntflx_logo.png" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -66,6 +93,9 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </None>
 	  <None Update="Pages\CategoriesPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	  <None Update="Pages\DetailsPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </None>
 	</ItemGroup>

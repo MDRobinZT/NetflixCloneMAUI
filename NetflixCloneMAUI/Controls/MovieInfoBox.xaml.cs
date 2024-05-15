@@ -16,17 +16,20 @@ public partial class MovieInfoBox : ContentView
     {
         InitializeComponent();
         ClosedCommand = new Command(ExecuteClosedCommand);
-
     }
+
+
     public Media Media
     {
         get => (Media)GetValue(MovieInfoBox.MediaProperty);
         set => SetValue(MovieInfoBox.MediaProperty, value);
     }
 
+
     public ICommand ClosedCommand { get; private set; }
     private void ExecuteClosedCommand() =>
         Closed?.Invoke(this, EventArgs.Empty);
+
 
     private void Button_Clicked(object sender, EventArgs e) =>
         Closed?.Invoke(this, EventArgs.Empty);

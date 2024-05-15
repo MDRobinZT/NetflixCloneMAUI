@@ -3,7 +3,9 @@
   "dgSpecHash": "9oVn64mOo9R1LxyFD2lQI1NlB9mIMKFejN+OoT0fJ6ut2D9Yr17Y/fZHjVm5BO9Ec0bfH2MpvXvEP1MsyASWNw==",
   "success": false,
   "projectFilePath": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\NetflixCloneMAUI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+  ],
   "logs": [
     {
       "code": "NU1012",

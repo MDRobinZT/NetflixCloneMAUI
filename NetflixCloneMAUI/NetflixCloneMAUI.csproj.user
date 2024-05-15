@@ -15,5 +15,8 @@
     <None Update="Pages\CategoriesPage.xaml">
       <SubType>Designer</SubType>
     </None>
+    <None Update="Pages\DetailsPage.xaml">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
 </Project>

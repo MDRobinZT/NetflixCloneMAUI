@@ -26,21 +26,26 @@ public partial class MovieRow : ContentView
         MediaDetailsCommand = new Command(ExecuteMediaDetailsCommand);
     }
 
+
     public string Heading
     {
         get => (string)GetValue(MovieRow.HeadingProperty);
         set => SetValue(MovieRow.HeadingProperty, value);
     }
+
+
     public IEnumerable<Media> Movies
     {
         get => (IEnumerable<Media>)GetValue(MovieRow.MoviesProperty);
         set => SetValue(MovieRow.MoviesProperty, value);
     }
+
     public bool IsLarge
     {
         get => (bool)GetValue(MovieRow.IsLargeProperty);
         set => SetValue(MovieRow.IsLargeProperty, value);
     }
+
 
     public bool IsNotLarge => !IsLarge;
 

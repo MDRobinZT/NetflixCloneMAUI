@@ -30,6 +30,7 @@
                                                   CommandParameter="{Binding .}"/>
                         </Border.GestureRecognizers>
                         <Grid>
+                            
                             <Image Aspect="AspectFill"
                                HeightRequest="150"
                                WidthRequest="120"
@@ -48,6 +49,7 @@
                                     <UriImageSource Uri="{Binding ThumbnailSmall}"/>
                                 </Image.Source>
                             </Image>
+                            
                         </Grid>
                     </Border>
                 </DataTemplate>

@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\services\\tmdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\services\\tmdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\pages\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\pages\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\pages\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\pages\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\pages\\categoriespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +59,16 @@
       "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\pages\\categoriespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\controls\\movierow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\controls\\movierow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\controls\\movierow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\controls\\movierow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\controls\\movieinfobox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,36 +79,12 @@
       "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\controls\\movieinfobox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\controls\\movierow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\controls\\movierow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\controls\\movierow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\controls\\movierow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\viewmodels\\categoriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\viewmodels\\categoriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\services\\tmdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\services\\tmdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|c:\\users\\opilane\\source\\repos\\netflixclonemaui\\netflixclonemaui\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C113D893-9F27-420D-855E-97A571DEED03}|NetflixCloneMAUI\\NetflixCloneMAUI.csproj|solutionrelative:netflixclonemaui\\models\\media.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,28 +94,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\AppShell.xaml.cs",
-              "RelativeToolTip": "NetflixCloneMAUI\\AppShell.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:38:22.049Z",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\App.xaml",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\App.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\App.xaml",
+              "RelativeToolTip": "NetflixCloneMAUI\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T07:48:38.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "NetflixCloneMAUI\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T07:47:36.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "NetflixCloneMAUI\\Pages\\MainPage.xaml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAJkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T06:57:50.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "NetflixCloneMAUI\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAAAJQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T07:00:45.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TmdbService.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Services\\TmdbService.cs",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Services\\TmdbService.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Services\\TmdbService.cs",
+              "RelativeToolTip": "NetflixCloneMAUI\\Services\\TmdbService.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAA9wKwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:30:19.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\App.xaml.cs",
               "RelativeDocumentMoniker": "NetflixCloneMAUI\\App.xaml.cs",
@@ -109,123 +189,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CategoriesPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\CategoriesPage.xaml.cs",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Pages\\CategoriesPage.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\CategoriesPage.xaml.cs",
-              "RelativeToolTip": "NetflixCloneMAUI\\Pages\\CategoriesPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:37:50.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriesPage.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\CategoriesPage.xaml",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Pages\\CategoriesPage.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\CategoriesPage.xaml",
-              "RelativeToolTip": "NetflixCloneMAUI\\Pages\\CategoriesPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-29T07:37:46.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MovieInfoBox.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml.cs",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml.cs",
-              "RelativeToolTip": "NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:22:18.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MovieInfoBox.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml",
-              "RelativeToolTip": "NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAmwHEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-29T07:22:06.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MovieRow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieRow.xaml.cs",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Controls\\MovieRow.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieRow.xaml.cs",
-              "RelativeToolTip": "NetflixCloneMAUI\\Controls\\MovieRow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T07:10:58.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MovieRow.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieRow.xaml",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Controls\\MovieRow.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieRow.xaml",
-              "RelativeToolTip": "NetflixCloneMAUI\\Controls\\MovieRow.xaml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-29T07:10:53.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\MainPage.xaml",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Pages\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\MainPage.xaml",
-              "RelativeToolTip": "NetflixCloneMAUI\\Pages\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-29T06:57:50.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Pages\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "NetflixCloneMAUI\\Pages\\MainPage.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T06:27:34.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\ViewModels\\HomeViewModel.cs",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\ViewModels\\HomeViewModel.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\ViewModels\\HomeViewModel.cs",
-              "RelativeToolTip": "NetflixCloneMAUI\\ViewModels\\HomeViewModel.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAuwDkAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T06:32:37.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\AppShell.xaml",
               "RelativeDocumentMoniker": "NetflixCloneMAUI\\AppShell.xaml",
@@ -238,33 +201,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Styles.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Resources\\Styles\\Styles.xaml",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Resources\\Styles\\Styles.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Resources\\Styles\\Styles.xaml",
-              "RelativeToolTip": "NetflixCloneMAUI\\Resources\\Styles\\Styles.xaml",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJQAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-29T07:00:45.232Z",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\AppShell.xaml.cs",
+              "RelativeToolTip": "NetflixCloneMAUI\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:38:22.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\MauiProgram.cs",
               "RelativeDocumentMoniker": "NetflixCloneMAUI\\MauiProgram.cs",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\MauiProgram.cs",
               "RelativeToolTip": "NetflixCloneMAUI\\MauiProgram.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBsAAABaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T06:41:52.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
+              "Title": "DetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\DetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Pages\\DetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\DetailsPage.xaml.cs",
+              "RelativeToolTip": "NetflixCloneMAUI\\Pages\\DetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:43:54.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\DetailsPage.xaml",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Pages\\DetailsPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\DetailsPage.xaml",
+              "RelativeToolTip": "NetflixCloneMAUI\\Pages\\DetailsPage.xaml",
+              "ViewState": "AQIAALwAAAAAAAAAAAA1wPgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T07:43:38.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\CategoriesPage.xaml",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Pages\\CategoriesPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\CategoriesPage.xaml",
+              "RelativeToolTip": "NetflixCloneMAUI\\Pages\\CategoriesPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T07:37:46.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Media.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Models\\Media.cs",
               "RelativeDocumentMoniker": "NetflixCloneMAUI\\Models\\Media.cs",
@@ -277,16 +279,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TmdbService.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Services\\TmdbService.cs",
-              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Services\\TmdbService.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Services\\TmdbService.cs",
-              "RelativeToolTip": "NetflixCloneMAUI\\Services\\TmdbService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAwAAABJAAAA",
+              "DocumentIndex": 15,
+              "Title": "MovieRow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieRow.xaml.cs",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Controls\\MovieRow.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieRow.xaml.cs",
+              "RelativeToolTip": "NetflixCloneMAUI\\Controls\\MovieRow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T06:30:19.427Z",
+              "WhenOpened": "2024-04-29T07:10:58.846Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovieRow.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieRow.xaml",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Controls\\MovieRow.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieRow.xaml",
+              "RelativeToolTip": "NetflixCloneMAUI\\Controls\\MovieRow.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T07:10:53.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "NetflixCloneMAUI\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:27:34.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieInfoBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml.cs",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml.cs",
+              "RelativeToolTip": "NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:22:18.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MovieInfoBox.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml",
+              "RelativeToolTip": "NetflixCloneMAUI\\Controls\\MovieInfoBox.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwD0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T07:22:06.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\CategoriesPage.xaml.cs",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\Pages\\CategoriesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\Pages\\CategoriesPage.xaml.cs",
+              "RelativeToolTip": "NetflixCloneMAUI\\Pages\\CategoriesPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:37:50.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\ViewModels\\CategoriesViewModel.cs",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\ViewModels\\CategoriesViewModel.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\ViewModels\\CategoriesViewModel.cs",
+              "RelativeToolTip": "NetflixCloneMAUI\\ViewModels\\CategoriesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:33:59.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "NetflixCloneMAUI\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\NetflixCloneMAUI\\NetflixCloneMAUI\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "NetflixCloneMAUI\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwDkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:32:37.332Z"
             }
           ]
         }

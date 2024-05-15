@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetflixCloneMAUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+451fd5a29e4cf36dbbda2def30e1d024b170f406")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bb00f65df6215110681b9c8787935282b87b33f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetflixCloneMAUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetflixCloneMAUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
